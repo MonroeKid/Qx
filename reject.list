@@ -182,6 +182,14 @@ DOMAIN-KEYWORD,mdapp09, reject
 DOMAIN-KEYWORD,juruigj, reject
 #DOMAIN-KEYWORD,mmiyue, reject
 
+IP-CIDR,118.89.204.198/32,REJECT
+IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
+# 知乎去广告，以下规则的位置越前方越好
+HOST,appcloud2.in.zhihu.com,REJECT
+HOST,mqtt.zhihu.com,reject
+HOST,sugar.zhihu.com,reject
+USER-AGENT,AVOS*,REJECT
+
 ##### pornhub.com  
 DOMAIN-SUFFIX,etahub.com, reject
 DOMAIN-SUFFIX,evtubescms.phncdn.com, reject
