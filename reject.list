@@ -69646,3 +69646,4 @@ DOMAIN,388663.eurtb.adtelligent.com,REJECT
 DOMAIN,388663.wcrtb.adtelligent.com,REJECT
 DOMAIN,bms-5w-ext.nyc2.appnexus.com,REJECT
 DOMAIN,bnkmse.melisorganizasyon.net,REJECT
+IP-CIDR,180.76.76.200/32,REJECT
