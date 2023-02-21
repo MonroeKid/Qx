@@ -7,13 +7,6 @@ USER-AGENT,AVOS*,ZhihuAds
 IP-CIDR,118.89.204.198/32,ZhihuAds
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,ZhihuAds
 
-## /*  
-## Written by limbopro  
-## https://limbopro.com/archives/12904.html 
-## https://t.me/Adblock4limbo  
-## Last updated at 02.18.2023
-## */  
-
 ##### https://javmost.xyz/  
 #DOMAIN,delivery-node-aziz.voe-network.net, reject
 #DOMAIN,inspiringaccurate.com, reject
@@ -294,9 +287,6 @@ DOMAIN,kmopoer.jkbuymjhp.xyz, reject
 DOMAIN,kmef.ikjwmfeds.xyz, reject
 DOMAIN,hnrtg.iujkegbpo.xyz, reject
 
-
-# Current total domain name : 69,000+ 
-# Update time : 2020.9.12
 
 DOMAIN,yhcw.org.cn,REJECT
 DOMAIN,vns4398.com,REJECT
